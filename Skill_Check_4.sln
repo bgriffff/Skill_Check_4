@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Skill_Check_4", "Skill_Check_4.csproj", "{6C7D2C25-0E8C-4F06-8FC7-B005F7511B58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C7D2C25-0E8C-4F06-8FC7-B005F7511B58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C7D2C25-0E8C-4F06-8FC7-B005F7511B58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C7D2C25-0E8C-4F06-8FC7-B005F7511B58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C7D2C25-0E8C-4F06-8FC7-B005F7511B58}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {01F6AD45-F599-4696-B0D3-FDAE62D7578A}
+	EndGlobalSection
+EndGlobal
